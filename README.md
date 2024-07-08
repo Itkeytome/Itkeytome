@@ -1,12 +1,6 @@
 
 <div>
-  <div style="color: red">Hi there 👋</div>
-  
-</div>
-
-<div style="background-color: lightblue; padding: 10px; color: red;">
-    <h1>This is a heading inside a div</h1>
-    <p>This is a paragraph inside the div.</p>
+  <h3>Hi there 👋</h3>
 </div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itkeytome&show_icons=true)
