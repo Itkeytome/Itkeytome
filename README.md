@@ -74,9 +74,9 @@
   <div>
     There is currently nothing here 😰, please believe that I will have it in the future, maybe ... 🥹
   </div>
-  <div>
+  <p style="margin-top: 1.5em; margin-bottom: 1.5em;">
     If possible, please give me your attention. Thank you very much. 🙏
-  </div>
+  </p>
   <img src="https://stats.justsong.cn/api/bilibili/?id=437449107&lang=zh-CN" />
 </div>
 
