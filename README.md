@@ -7,10 +7,12 @@
 
 ![](https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN)
 
+<h3>Technologies</h3>
+
 <div>
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue-001234e?style=flat&logo=vue&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-001234e?style=flat&logo=vuedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
