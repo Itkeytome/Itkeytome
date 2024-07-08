@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=F70795&repeat=false&random=false&width=435&lines=Hi%2C+I%E2%80%99m+Keylan%2C+a+front-end+engineer.)](https://git.io/typing-svg)
 
-<h3><img src="https://camo.githubusercontent.com/6eca0ec910932cc3b8bee37e3f16934f4713f03f8a2985f5fca9e8144e72c4eb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4d616c655765622f706963747572652f696d616765732f74656368626c6f672f68692e676966" />About Me</h3>
+<h3><img style="width: 30px;"  src="https://camo.githubusercontent.com/6eca0ec910932cc3b8bee37e3f16934f4713f03f8a2985f5fca9e8144e72c4eb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4d616c655765622f706963747572652f696d616765732f74656368626c6f672f68692e676966"  />About Me</h3>
 
 <div>
   
