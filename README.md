@@ -1,5 +1,3 @@
-<h3>Hi there 👋</h3>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=F70795&repeat=false&random=false&width=435&lines=Hi%2C+I%E2%80%99m+Keylan%2C+a+front-end+engineer.)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=Itkeytome&style=social)
@@ -8,3 +6,6 @@
 
 ![](https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN)
 
+<h3>Technology Stack</h3>
+
+![](https://camo.githubusercontent.com/d57e9ead96d9b76ae363657c50270a52332bc6648501c8a23699e15d08dfc0a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d2532333030376163632e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265)
