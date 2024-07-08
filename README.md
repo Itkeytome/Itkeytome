@@ -1,5 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=F70795&repeat=false&random=false&width=435&lines=Hi%2C+I%E2%80%99m+Keylan%2C+a+front-end+engineer.)](https://git.io/typing-svg)
 
+<h3><img src="https://camo.githubusercontent.com/6eca0ec910932cc3b8bee37e3f16934f4713f03f8a2985f5fca9e8144e72c4eb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4d616c655765622f706963747572652f696d616765732f74656368626c6f672f68692e676966" />About Me</h3>
+
+<div>
+  
+</div>
+
+
 <div>
   <img src="https://komarev.com/ghpvc/?username=Itkeytome&style=social">
   <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=Bilibili&color=%23ff69b4&logoColor=ff8cc6&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20Fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D437449107">
@@ -29,8 +36,10 @@
 
 <h3>More Social Media...</h3>
 
+<h4><a href="https://juejin.cn/user/1698079717464174">掘金 Juejin</a></h4>
+
 <div>
-  <a href="https://juejin.cn/user/1698079717464174">掘金</a>/<a href="https://juejin.cn/user/1698079717464174">掘金</a>
+  
   <img src="https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN" />
 </div>
 
