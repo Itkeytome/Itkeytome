@@ -20,7 +20,7 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=Itkeytome&style=social">
-  <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=Bilibili&color=%23ff69b4&logoColor=ff8cc6&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20Fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D437449107">
+  
 </div>
 
 <h3>Technologies</h3>
@@ -55,6 +55,11 @@
   
   <img src="https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN" />
 </div>
+
+<h4>
+  <a href="https://juejin.cn/user/1698079717464174">哔哩哔哩 Bilibili</a> 
+  <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=Bilibili&color=%23ff69b4&logoColor=ff8cc6&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20Fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D437449107"/>
+</h4>
 
 
 
