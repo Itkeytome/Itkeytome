@@ -46,10 +46,10 @@
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=Itkeytome&style=social" />
-  <p style="margin-top: 1.5em; margin-bottom: 1.5em;">
+  <p>
     There is currently nothing here 😰, please believe that I will have it in the future, maybe ... 🥹
   </p>
-  <p style="margin-top: 1.5em; margin-bottom: 1.5em;">
+  <p style="margin-bottom: 1.5em;">
     If possible, please give me your attention. Thank you very much. 🙏
   </p>
   <div></div>
@@ -71,10 +71,10 @@
 
 <div style="line-height: 100px">
   <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=Bilibili&color=%23ff69b4&logoColor=ff8cc6&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20Fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D437449107"/>
-  <p style="margin-top: 1.5em; margin-bottom: 1.5em;">
+  <p>
     There is currently nothing here 😰, please believe that I will have it in the future, maybe ... 🥹
   </p>
-  <p style="margin-top: 1.5em; margin-bottom: 1.5em;">
+  <p style="margin-bottom: 1.5em;">
     If possible, please give me your attention. Thank you very much. 🙏
   </p>
   <img src="https://stats.justsong.cn/api/bilibili/?id=437449107&lang=zh-CN" />
