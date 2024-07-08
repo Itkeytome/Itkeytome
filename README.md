@@ -66,7 +66,7 @@
     In writing...
   </p>
   
-  ![微信公众号](https://github.com/Itkeytome/Itkeytome/assets/68908587/0429b7f0-50c5-4703-b97f-a5acf810141f)
+  <img style="width: 400px;" src="https://github.com/Itkeytome/Itkeytome/assets/68908587/0429b7f0-50c5-4703-b97f-a5acf810141f" />
 </div>
 
 <!-- 哔哩哔哩 Bilibili -->
