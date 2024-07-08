@@ -43,7 +43,18 @@
 <!-- 掘金 Juejin -->
 
 <h4>
-  <a href="https://juejin.cn/user/1698079717464174">掘金 Juejin</a>
+  <a href="https://juejin.cn/user/1698079717464174">掘金 JueJin</a>
+</h4>
+
+<div>
+  
+  <img src="https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN" />
+</div>
+
+<!-- 微信公众号 Wechat Public Accounts -->
+
+<h4>
+  <a href="https://juejin.cn/user/1698079717464174">微信公众号 Wechat Public Accounts</a>
 </h4>
 
 <div>
