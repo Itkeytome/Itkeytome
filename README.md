@@ -6,7 +6,7 @@
 
   </div>
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itkeytome&show_icons=true)
 
   <div style="margin-bottom: 32px;">
   目前是一名前端工程师，工作经验将近一年，正在一直在进步中
