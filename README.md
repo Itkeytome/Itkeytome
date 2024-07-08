@@ -5,8 +5,6 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=Bilibili&color=%23ff69b4&logoColor=ff8cc6&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20Fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D437449107">
 </div>
 
-![](https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN)
-
 <h3>Technologies</h3>
 
 <div>
@@ -28,3 +26,14 @@
   <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
+
+<h3>More Social Media...</h3>
+
+<div>
+  <h4><a href="https://juejin.cn/user/1698079717464174">掘金</a></h4>
+  <img src="https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN" />
+</div>
+
+
+
+
