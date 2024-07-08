@@ -45,6 +45,13 @@
 </h4>
 
 <div>
+  <!-- 贪吃蛇 - 图片由 actions/Generate Snake 定时生成 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
+  </picture>
+
   <img src="https://komarev.com/ghpvc/?username=Itkeytome&style=social" />
   <p>
     There is currently nothing here 😰, please believe that I will have it in the future, maybe ... 🥹
