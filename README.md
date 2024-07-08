@@ -4,7 +4,7 @@
   
 </div>
 
-<div style="background-color: lightblue; padding: 10px;">
+<div style="background-color: lightblue; padding: 10px; color: red;">
     <h1>This is a heading inside a div</h1>
     <p>This is a paragraph inside the div.</p>
 </div>
