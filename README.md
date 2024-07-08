@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
   <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
 <div>
