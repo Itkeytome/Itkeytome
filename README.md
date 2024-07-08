@@ -30,7 +30,7 @@
 <h3>More Social Media...</h3>
 
 <div>
-  <h4><a href="https://juejin.cn/user/1698079717464174">掘金</a></h4>
+  <a href="https://juejin.cn/user/1698079717464174">掘金</a>/<a href="https://juejin.cn/user/1698079717464174">掘金</a>
   <img src="https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN" />
 </div>
 
