@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=F70795&repeat=false&vCenter=true&random=false&width=800&height=40&lines=Hi%2C+I%E2%80%99m+Keylan%2C+a+front-end+development+engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=F70795&repeat=false&vCenter=true&random=false&width=800&height=30&lines=Hi%2C+I%E2%80%99m+Keylan%2C+a+front-end+development+engineer.)](https://git.io/typing-svg)
 
 <div>A passionate 💥 and lifeless 🌚 front-end development engineer 👨‍💻 </div>
 
