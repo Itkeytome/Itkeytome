@@ -6,7 +6,7 @@
 
 ![](https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN)
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white">
 </div>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
