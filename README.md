@@ -49,6 +49,16 @@
 <div>
 <!-- posts start -->
 <ul>
+<li>[6月前] <a href="https://juejin.cn/post/7312476561679319066">「一个长篇系列」万字述说很多前端工程师都不会的服务器搭建（二）</a></li>
+<li>[8月前] <a href="https://juejin.cn/post/7294165410344140819">半角符号转全角符号，全角符号转半角符号怎么转？</a></li>
+<li>[8月前] <a href="https://juejin.cn/post/7288963909590859816">🤪懒得手写 Taro 基础页面/组件，索性做了个 Vscode 插件</a></li>
+<li>[9月前] <a href="https://juejin.cn/post/7288340985229459475">「报错解决」找不到“sass”的类型定义文件。程序包含该文件是因为:隐式类型库 "sass" 的入口点</a></li>
+<li>[10月前] <a href="https://juejin.cn/post/7270014884195401785">「每日一学」轻轻敲开GPT的大门🚪（纯科普，内附黑科技）</a></li>
+<li>[1年前] <a href="https://juejin.cn/post/7243248407535697976">「👨‍💻 嘿！喜剧人 💥」教你十分钟将ChatGpt接入微信</a></li>
+<li>[1年前] <a href="https://juejin.cn/post/7241922694274105400">「趣味闲谈」🌃 希望我的经历能化成你的星星照亮正在找实习/工作的你前行</a></li>
+<li>[1年前] <a href="https://juejin.cn/post/7239206188163235901">「一个长篇系列」万字述说很多前端工程师都不会的服务器搭建（一）</a></li>
+<li>[1年前] <a href="https://juejin.cn/post/7230284316101394469">「报错解决」Oops! Something went wrong! :(  ESLint: 7.20.0  TypeError: Error while ……</a></li>
+<li>[1年前] <a href="https://juejin.cn/post/7227390567407140921">「报错解决」ts 文件不识别 .vue 文件（...src/App.vue.ts' is not a module）</a></li>
 </ul>
 <!-- posts end -->
   
