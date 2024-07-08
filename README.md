@@ -35,6 +35,8 @@
   <img src="https://img.shields.io/badge/-Express-3404d59?style=flat&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
   <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-123axc?style=flat&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Taro-1234xc?style=flat&logo=wechat&logoColor=white">
 </div>
 
 <div>
