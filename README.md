@@ -1,11 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=F70795&repeat=false&vCenter=true&random=false&width=500&height=40&lines=Hi%2C+I%E2%80%99m+Keylan%2C+a+front-end+engineer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=2000&color=F70795&repeat=false&vCenter=true&random=false&width=500&height=40&lines=Hi%2C+I%E2%80%99m+Keylan%2C+a+front-end+development+engineer.)](https://git.io/typing-svg)
 
-<div>Sometimes passion ✨ and sometimes idle 🥋 front-end engineer from China 👨‍💻</div>
+<div>A passionate 💥 and lifeless 🌚 front-end development engineer 👨‍💻 </div>
 
 <h3><img style="width: 30px;"  src="https://camo.githubusercontent.com/6eca0ec910932cc3b8bee37e3f16934f4713f03f8a2985f5fca9e8144e72c4eb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f4d616c655765622f706963747572652f696d616765732f74656368626c6f672f68692e676966"  />About Me</h3>
 
-- 哈哈哈
-- 的诞生地
+- 🛁 Shower for ten minutes
+- 👊 No violent tendencies
+- 📱 Can play with smartphones
+- ☔️ If it rains, i will walk home
+- 👸 A conversation will only say hello
+- 👨‍💻 Two years of work experience
+- 🙋 Likes to tinker with some interesting techniques
+- 🤝 A bit of social anxiety, I hope you can take the initiative to make friends with me
 
 <div>
   
@@ -39,7 +45,7 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-<h3>More Social Media...</h3>
+<h3>Social Media</h3>
 
 <h4><a href="https://juejin.cn/user/1698079717464174">掘金 Juejin</a></h4>
 
