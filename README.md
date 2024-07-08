@@ -6,8 +6,20 @@
 
 ![](https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN)
 
-<h3>Technology Stack</h3>
-
-<img src="https://camo.githubusercontent.com/415e5c61fbe66c850843713aad3fe47cdfbb2daf343776d247294958c7247610/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d2532333332333333302e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145267374796c653d666c61742d737175617265" alt="javascript" style="width: 100px;"/>
-
-<img src="https://camo.githubusercontent.com/d57e9ead96d9b76ae363657c50270a52332bc6648501c8a23699e15d08dfc0a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d2532333030376163632e7376673f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465267374796c653d666c61742d737175617265" alt="typescript" style="width: 100px;"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Koa-33333D?style=flat&logo=koa&logoColor=white">
+  <img src="https://img.shields.io/badge/-Less-bf608e?style=flat&logo=less&logoColor=white">
+  <img src="https://img.shields.io/badge/-Sass-b37feb?style=flat&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/-Graphql-cf1322?style=flat&logo=graphql&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Git-ee462c?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-218bea?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Github-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack">
+  <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
+</div>
