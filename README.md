@@ -58,7 +58,7 @@
 <!-- 微信公众号 Wechat Public Accounts -->
 
 <h4>
-  <a href="https://juejin.cn/user/1698079717464174">微信公众号 Wechat Public Accounts</a>
+  <a href="javascript: void 0;">微信公众号 Wechat Public Accounts</a>
 </h4>
 
 <div>
