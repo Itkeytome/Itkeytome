@@ -72,8 +72,11 @@
 </h4>
 
 <div>
+  <p style="margin-bottom: 1.5em;">
+    In writing...
+  </p>
   
-  <img src="https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN" />
+  ![微信公众号](https://github.com/Itkeytome/Itkeytome/assets/68908587/0429b7f0-50c5-4703-b97f-a5acf810141f)
 </div>
 
 <!-- 哔哩哔哩 Bilibili -->
