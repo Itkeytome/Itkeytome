@@ -41,7 +41,7 @@
 <h3>Social Media</h3>
 
 <h4>
-  <a href="https://juejin.cn/user/1698079717464174">Github</a>
+  <a href="https://github.com/Itkeytome">Github</a>
 </h4>
 
 <div>
@@ -49,7 +49,7 @@
   <div>
     There is currently nothing here 😰, please believe that I will have it in the future, maybe ... 🥹
   </div>
-  <div>
+  <div style="margin: 30px 0;">
     If possible, please give me your attention. Thank you very much. 🙏
   </div>
   <img src="https://github-readme-stats.vercel.app/api?username=Itkeytome" />
@@ -73,7 +73,7 @@
   <div>
     There is currently nothing here 😰, please believe that I will have it in the future, maybe ... 🥹
   </div>
-  <div>
+  <div style="margin: 30px 0;">
     If possible, please give me your attention. Thank you very much. 🙏
   </div>
   <img src="https://stats.justsong.cn/api/bilibili/?id=437449107&lang=zh-CN" />
