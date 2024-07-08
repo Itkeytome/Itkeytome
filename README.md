@@ -40,6 +40,39 @@
 
 <h3>Social Media</h3>
 
+<!-- 掘金 Juejin -->
+
+<h4>
+  <a href="https://juejin.cn/user/1698079717464174">掘金 Juejin</a>
+</h4>
+
+<div>
+  
+  <img src="https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN" />
+</div>
+
+<!-- 哔哩哔哩 Bilibili -->
+
+<h4>
+  <a href="https://space.bilibili.com/437449107">哔哩哔哩 Bilibili</a>
+</h4>
+
+<div>
+  <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=Bilibili&color=%23ff69b4&logoColor=ff8cc6&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20Fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D437449107"/>
+  
+  <p>
+    There is currently nothing here 😰, please believe that I will have it in the future, maybe ... 🥹
+  </p>
+  
+  <p style="margin-bottom: 1.5em;">
+    If possible, please give me your attention. Thank you very much. 🙏
+  </p>
+  
+  <img src="https://stats.justsong.cn/api/bilibili/?id=437449107&lang=zh-CN" />
+</div>
+
+<!-- Github -->
+
 <h4>
   <a href="https://github.com/Itkeytome">Github</a>
 </h4>
@@ -64,34 +97,5 @@
     <img width="100%" alt="github-snake" src="./assets/github-snake.svg" />
   </picture>
 </div>
-
-<h4>
-  <a href="https://juejin.cn/user/1698079717464174">掘金 Juejin</a>
-</h4>
-
-<div>
-  
-  <img src="https://stats.justsong.cn/api/juejin?id=1698079717464174&lang=zh-CN" />
-</div>
-
-<h4>
-  <a href="https://space.bilibili.com/437449107">哔哩哔哩 Bilibili</a>
-</h4>
-
-<div style="line-height: 100px">
-  <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=Bilibili&color=%23ff69b4&logoColor=ff8cc6&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%20Fans&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D437449107"/>
-  
-  <p>
-    There is currently nothing here 😰, please believe that I will have it in the future, maybe ... 🥹
-  </p>
-  
-  <p style="margin-bottom: 1.5em;">
-    If possible, please give me your attention. Thank you very much. 🙏
-  </p>
-  
-  <img src="https://stats.justsong.cn/api/bilibili/?id=437449107&lang=zh-CN" />
-</div>
-
-
 
 
