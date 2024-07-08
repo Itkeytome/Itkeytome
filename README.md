@@ -1,4 +1,4 @@
-<div style="font-size: 30px;">Hi there 👋</div>
+<div style="font-size: 34px;font-weight: 700;">Hi there 👋</div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itkeytome&show_icons=true)
 
