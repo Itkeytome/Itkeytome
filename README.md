@@ -11,6 +11,8 @@
 - 👸 A conversation will only say hello
 - 👨‍💻 Two years of work experience
 - 🙋 Likes to tinker with some interesting techniques
+- 🏀 enjoy playing basketball, hiking, playing games(lol: League of Legends), etc...
+- ✈️ Love traveling
 - 🤝 A bit of social anxiety, I hope you can take the initiative to make friends with me
 
 <div>
@@ -68,6 +70,7 @@
   <div>
     If possible, please give me your attention. Thank you very much. 🙏
   </div>
+  <img src="https://stats.justsong.cn/api/bilibili/?id=437449107&lang=zh-CN" />
 </div>
 
 
