@@ -1,4 +1,7 @@
-<div style="color: red">Hi there 👋</div>
+<div>
+  <div style="color: red">Hi there 👋</div>
+  
+</div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itkeytome&show_icons=true)
 
