@@ -14,16 +14,6 @@
 - 🏀 enjoy playing basketball, hiking, playing games(lol: League of Legends), traveling etc...
 - 🤝 A bit of social anxiety, I hope you can take the initiative to make friends with me
 
-<div>
-  
-</div>
-
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=Itkeytome&style=social">
-  
-</div>
-
 <h3>Technologies</h3>
 
 <div>
@@ -50,7 +40,24 @@
 
 <h3>Social Media</h3>
 
-<h4><a href="https://juejin.cn/user/1698079717464174">掘金 Juejin</a></h4>
+<h4>
+  <a href="https://juejin.cn/user/1698079717464174">Github</a>
+</h4>
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=Itkeytome&style=social" />
+  <div>
+    There is currently nothing here 😰, please believe that I will have it in the future, maybe ... 🥹
+  </div>
+  <div>
+    If possible, please give me your attention. Thank you very much. 🙏
+  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Itkeytome" />
+</div>
+
+<h4>
+  <a href="https://juejin.cn/user/1698079717464174">掘金 Juejin</a>
+</h4>
 
 <div>
   
