@@ -1,9 +1,13 @@
-```
+
 <div>
   <div style="color: red">Hi there 👋</div>
   
 </div>
-```
+
+<div style="background-color: lightblue; padding: 10px;">
+    <h1>This is a heading inside a div</h1>
+    <p>This is a paragraph inside the div.</p>
+</div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itkeytome&show_icons=true)
 
